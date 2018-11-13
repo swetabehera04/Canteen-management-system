@@ -8,13 +8,20 @@ user authentication option.
 ADVANTAGES:
 
 •	Customer does not have to wait in long queues.
+
 •	It is easy to handle customers records and products records for future use.
+
 •	This software saves the time.
-•	Provides username authentication for individual users
-•	Generates proper invoice
+
+•	Provides username authentication for individual users.
+
+•	Generates proper invoice.
+
 
 DISADVANTAGES:
 
 •	This system suitable for only small canteens.
+
 •	Online facility is not available.Only CASH Payment feature available.
+
 •	Product menu set as per Food Canteen.
