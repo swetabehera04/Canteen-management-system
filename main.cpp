@@ -1140,14 +1140,9 @@ void intro()
       cout<<"-------------------------------------------------------------------------"<<endl;
       cout<<"***************************   S Y S T E M   *****************************"<<endl;
       cout<<"-------------------------------------------------------------------------"<<endl;
-      cout<<"PROJECT : "<<endl;
-      cout<<"MADE BY : 1 - SWETA BEHERA        , ID- B117054"<<endl;
-      cout<<"          2 - RUPESH KRISHNA JHA  , ID- B117043"<<endl;
-      cout<<"          3 - SAYAN DE BHOWMICK   , ID- B117047"<<endl;
-      cout<<"          4 - PULI KIRAN          , ID- B117038"<<endl;
-      cout<<"          5 - SUMEET SAGAR LENKA  , ID- B117052"<<endl;
+      cout<<"PROJECT BUILT BY : "<<endl;
+      cout<<" 				 SWETA BEHERA 				      "<<endl;
       cout<<endl;
-      cout<<"----  INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY,BHUBANESWAR  ----"<<endl;
       cout<<"========================================================================="<<endl;
       cin.get();
 }
